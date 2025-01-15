@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Telefon",
+    "count": 2,
+    "image": "https://picsum.photos/200/300",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "name": "Noutbook",
+    "count": 3,
+    "image": "https://picsum.photos/200/300",
+    "price": 600
+  },
+  {
+    "id": 3,
+    "name": "Planshet",
+    "count": 1,
+    "image": "https://picsum.photos/200/300",
+    "price": 300
+  }
+]
